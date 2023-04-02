@@ -2,19 +2,11 @@
 
 A simple VPN app for Android.
 
-![image](https://img.shields.io/badge/License-MIT-orange)
-![image](https://img.shields.io/badge/License-Anti--996-red)
-![image](https://img.shields.io/github/downloads/net-byte/vTunnel/total.svg)
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.netbyte.vtunnel"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="100"></a>
-</p>
-
 # Requirements
 * Android version >= 8.0
 * Min SDK version 26
 
 # Server setup on linux
-[install vtun server with websocket protocol](https://github.com/net-byte/vtun)
 
 # Deploy server  
 
