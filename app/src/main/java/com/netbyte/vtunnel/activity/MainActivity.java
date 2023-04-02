@@ -1,6 +1,4 @@
 package com.netbyte.vtunnel.activity;
-
-
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.os.StrictMode;
@@ -10,10 +8,10 @@ import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 import com.google.android.material.navigation.NavigationBarView;
-import com.netbyte.vtunnel.R;
 import com.netbyte.vtunnel.fragment.AppsFragment;
 import com.netbyte.vtunnel.fragment.HomeFragment;
 import com.netbyte.vtunnel.fragment.SettingsFragment;
+import com.netbyte.vtunnel.R;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentTransaction;
