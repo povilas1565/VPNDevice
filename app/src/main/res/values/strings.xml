@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">VPNDevice</string>
+    <string name="app_version">Version</string>
+    <string name="form_server">Server</string>
+    <string name="form_path">Way</string>
+    <string name="form_key">Key</string>
+    <string name="form_dns">DNS</string>
+    <string name="form_protocol">Protocol</string>
+    <string name="form_protocol_ws">ws</string>
+    <string name="form_protocol_wss">wss</string>
+    <string name="form_obfs">Obfuscation</string>
+    <string name="form_switch_on">Enable</string>
+    <string name="form_switch_off">Disable</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_bypass">VPN BYPASS</string>
+    <string name="btn_select_all">Select all</string>
+    <string name="form_default_server">vpn.your.domain:443</string>
+    <string name="form_default_path">/freedom</string>
+    <string name="form_default_key">123456</string>
+    <string name="form_default_dns">223.5.5.5</string>
+    <string name="form_default_obfs">false</string>
+    <string name="menu_home">Main</string>
+    <string name="menu_configs">Settings</string>
+    <string name="menu_apps">Apps</string>
+    <string name="msg_success_save">Saved</string>
+    <string name="msg_error_server">Invalid server address or key</string>
+    <string name="msg_error_server_none">Please add a server</string>
+    <string name="msg_error_dns">Invalid DNS</string>
+    <string name="msg_vpn_connect_no"></string>
+    <string name="msg_vpn_connect_yes">Connected</string>
+    <string name="msg_vpn_start">Launched</string>
+    <string name="msg_vpn_stop">Stopped</string>
+    <string name="msg_vpn_connecting">Connection…</string>
+    <string name="msg_vpn_data_usage">Data Usage</string>
+    <string name="banner_add_unit_id">ca-app-pub-8737005619649234/8731694695</string>
+</resources>
